@@ -1,4 +1,5 @@
-<img width="50%" align="right" src="https://github.com/user-attachments/assets/6828d768-a78e-4b33-9e70-3f59710473f8" />
+<img width="45%" align="right" src="https://github.com/user-attachments/assets/6828d768-a78e-4b33-9e70-3f59710473f8" />
+
 ### Hi, I'm Kieran :love_you_gesture:
 
 I’m a Software Engineering student at Waterloo. 
