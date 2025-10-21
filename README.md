@@ -2,8 +2,12 @@
 <img width="50%" align="right" src="https://github.com/user-attachments/assets/6828d768-a78e-4b33-9e70-3f59710473f8" />
 
 I’m a Software Engineering student at Waterloo. 
-I'm working as a Software Engineering Intern at Shopify this summer. 
+I've interned at Bank of America and Shopify.
+I'm currently seeking Summer 2026 internship opportunities.
 
+<br>
+
+I do most of my coding at work & school, which aren't on public repos
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kieranhulsman)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kieran.hulsman@uwaterloo.ca)
