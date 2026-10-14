@@ -2,9 +2,7 @@
 <img width="50%" align="right" src="https://github.com/user-attachments/assets/6828d768-a78e-4b33-9e70-3f59710473f8" />
 
 I’m a Software Engineering student at Waterloo. 
-I've interned at Bank of America and Shopify.
-I'm currently seeking Summer 2026 internship opportunities.
-
+I've interned at Cloudflare, Aven, Shopify, and Bank of America.
 <br>
 
 I do most of my coding at work & school, which aren't on public repos
