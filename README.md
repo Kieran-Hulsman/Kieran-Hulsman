@@ -3,6 +3,11 @@
 
 I’m a Software Engineering student at Waterloo. 
 I've interned at Cloudflare, Aven, Shopify, and Bank of America.
+
+<br>
+
+Over the summer, I worked on [cloudfare-os](https://github.com/cloudflare/cloudflare-os), a pretty cool agent harness.
+
 <br>
 
 I do most of my coding at work & school, which aren't on public repos
